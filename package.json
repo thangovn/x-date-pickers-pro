@@ -1,6 +1,6 @@
 {
   "name": "truson/x-date-pickers-pro",
-  "version": "5.0.0-beta.0",
+  "version": "5.0.0-v1.0.0",
   "description": "The commercial edition of the date picker components (MUI X).",
   "author": "MUI Team",
   "main": "./node/index.js",
